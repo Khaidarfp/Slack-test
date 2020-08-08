@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_PositiveWithVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d6aac9f-1701-4514-a3d6-bd6f24a102d2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58702918-cccc-4b50-acf9-55fde952de53</id>
+      <masked>false</masked>
+      <name>Workspace</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>72d61a23-c381-46b5-9fe0-0aaae103130e</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa0559ac-d7c5-4b84-9bdc-c285acbe273a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
